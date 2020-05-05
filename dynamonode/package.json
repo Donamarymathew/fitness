@@ -1,0 +1,24 @@
+{
+  "name": "signupsrc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "mongoose": "^5.9.7",
+    "moongoose": "0.0.5",
+    "graphql-playground-middleware-express": "^1.7.14",
+    "apollo-server-express": "^2.12.0",
+    "aws-sdk": "^2.656.0",
+    "cloudinary": "^1.21.0"
+  },
+  "description": ""
+}
